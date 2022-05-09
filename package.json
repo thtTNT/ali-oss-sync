@@ -1,0 +1,7 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "ali-oss": "^6.17.1",
+    "commander": "^9.2.0"
+  }
+}
